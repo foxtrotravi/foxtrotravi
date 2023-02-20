@@ -9,11 +9,7 @@
 
 - 🔭 I’m currently working on **Flutter projects**
 
-- 🌱 I’m currently learning **Ruby on rails, Unity**
-
 - 👯 I’m looking to collaborate on **Flutter**
-
-- 🤝 I’m looking for help with **Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [https://github.com/foxtrotravi](https://github.com/foxtrotravi)
 
