@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/ravisinghlodhi" target="blank"><img src="https://img.shields.io/twitter/follow/ravisinghlodhi?logo=twitter&style=for-the-badge&theme=onedark" alt="ravisinghlodhi" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain projects**
+- 🔭 I’m currently working on **Blockchain projects (Ethereum and Solana)**
 
 - 👯 I’m looking to collaborate on **Web3**
 
 - 👨‍💻 All of my projects are available at [https://github.com/foxtrotravi](https://github.com/foxtrotravi)
 
-- 💬 Ask me about **React**, **NextJS**, **Flutter**
+- 💬 Ask me about **Web3**, **React**, **NextJS**
 
 - 📫 How to reach me **ravisinghlodhi2357@gmail.com**
 
