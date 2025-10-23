@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Blockchain projects (Ethereum and Solana)**
 
-- 👯 I’m looking to collaborate on **Web3**
+- 👯 I’m looking to collaborate on **Web3 and AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/foxtrotravi](https://github.com/foxtrotravi)
 
