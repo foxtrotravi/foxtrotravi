@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/foxtrotravi](https://github.com/foxtrotravi)
 
-- 💬 Ask me about **Web3**, **React**, **NextJS**
+- 💬 Ask me about **Web3**, **React**, **NextJS** and **Rust**
 
 - 📫 How to reach me **ravisinghlodhi2357@gmail.com**
 
